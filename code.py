@@ -88,6 +88,3 @@ def main():
     print(f"You are betting {bet} on each {lines} lines. The total bet: {total_bet}.")
 
 main()
-nm = ltrk
-lktr = ""
-ljkg = 1
